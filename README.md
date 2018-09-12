@@ -15,3 +15,13 @@ http://denkiyoho.hepco.co.jp/area_download.html
 本データの扱いについては、北海道電力株式会社の「取り扱い・免責事項について」を一読の上、利用ください。
 
 http://denkiyoho.hepco.co.jp/area_disclaimer.html
+
+## データのプロット
+
+2016年以降の電力使用量
+
+![2016年以降の電力使用量](images/Hokkaido_Power_Usage.png)
+
+2018年8月30日以降の予測値と電力使用量
+
+![2018年8月30日以降の電力使用量](images/Hokkaido_Power_Usage_Prediction.png)
